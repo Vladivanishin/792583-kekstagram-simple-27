@@ -6,6 +6,7 @@ function getRandomInteger(min, max) {
   }
   return Math.floor(rand);
 }
+
 // //функция проверяет строку на максимальную длинну
 // function checkMaxLength (str,maxLength) {
 //   return str.length <= maxLength;
